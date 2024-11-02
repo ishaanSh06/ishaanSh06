@@ -89,9 +89,7 @@ Hello, World!
   <br>
   <details>
   <summary>Discord: Username & ID</summary>
-    
-![Discord](https://img.shields.io/discord/1053869961661137036?color=purple&label=My-Discord-Server)
-    
+        
 ```js
 !JeherillaJanwar!#0389 
 ```
@@ -114,21 +112,6 @@ askishaan.sh@gmail.com
 @JeherillaJanwar
 ```
   </details>
-  <details>
-  <summary>chess.com account ♟</summary>
-    
-<a href="https://www.chess.com/member/jeherillajanwar_1/">
-  <img src='https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpmeXx6V.png' alt='Chess.com' height='40'>
-</a>
-   <br>
-    <a href="https://www.chess.com/member/jeherillajanwar_1">
-      <code>https://www.chess.com/member/jeherillajanwar_1</code>
-    </a>
-      
-```js
-JeherillaJanwar_1
-```  
-</details>
   <details>
   <summary>Portfolio</summary>
   <a href="https://cutt.ly/328069i/"><code>https://cutt.ly/328069i/</code></a>
