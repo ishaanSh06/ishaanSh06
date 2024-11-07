@@ -91,7 +91,7 @@ Hello, World!
   <summary>Discord</summary>
         
 ```js
-ishaan_s06
+ishaansh06
 ```
 
   </details>
