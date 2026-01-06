@@ -66,18 +66,6 @@ Hello, World!
 
 ---
 
-
-### Some Languages and Tools used by me:
-<p align="center">
-  <a href="https://ishaanSh06.github.io/">
-    <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,ts,bootstrap,materialui,androidstudio,arduino,bash,linux,swift,bootstrap,firebase,gcp,heroku,nodejs,py,github,mongodb,express,atom,vim,azure,discord,gitlab,instagram,jquery,netlify,twitter,vercel,vue,aws,angular" />
-  </a>
-</p>
-
-<hr>
-<hr>
-<br />
-<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
