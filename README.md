@@ -1,9 +1,16 @@
-# Hey, It's nice to meet you...
+# Hey 👋, I'm Ishaan S.
+
 <p align="center">
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/ishaanSh06?label=Followers&style=social"> •
-  <img src="https://img.shields.io/github/stars/ishaanSh06?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+  <img alt="followers" src="https://img.shields.io/github/followers/ishaanSh06?label=Followers&style=social"> 
+  •
+  <img src="https://img.shields.io/github/stars/ishaanSh06?label=Stars" alt="stars">
 </p>
-<img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="230">
+
+<img align="right" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="230">
+
+---
+
+## 🚀 About Me
 
 ```bash
 ┌──()-[~]
@@ -12,52 +19,65 @@ Hello, World!
 𝙄𝙨𝙝𝙖𝙖𝙣 𝙎𝙝𝙖𝙧𝙢𝙖
 ```
 
+- 💻 Full-stack developer & builder  
+- ⚡ Love working with modern tech
+- 🧠 Always learning something new
 
 ---
 
-
-### Github Stats  
+## 🏆 Achievements
 <p align="center">
-   <a href="https://github.com/ishaanSh06/">
-    <img align="center" height="100%" width="490" src="https://github-readme-stats.vercel.app/api?username=ishaanSh06&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF&bg_color=0,3a6073,16222A&theme=graywhite&border_radius=23px" alt="Ishaan's GitHub stats" />
-</a>
-<a href="https://github.com/ishaanSh06/">
-    <img align="center" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaanSh06&hide_border=true&layout=compact&langs_count=30&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF&bg_color=0,16222A,3a6073&theme=graywhite&border_radius=22px" />
-</a>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=ishaanSh06&theme=onedark&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-### Some of my work:- ↓↓
-<div align="center">
-<a href="https://github.com/ishaanSh06/AIchess">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishaanSh06&repo=AIchess&theme=tokyonight&border=true" />
-</a>
-<a href="https://github.com/ishaanSh06/Fighter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishaanSh06&repo=Fighter&theme=tokyonight&border=true" />
-</a>
-
->
-
-<a href="https://github.com/ishaanSh06/ZipLink">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishaanSh06&repo=ZipLink&theme=tokyonight&border=true" />
-</a>
+## 📊 GitHub Stats  
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ishaanSh06&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF&bg_color=0,3a6073,16222A&border_radius=20" />
   
-  >
-  
-  Wanna see more? Go to my [Portfolio's Web Projects Page](https://ishaanSh06.github.io/328069/pages/projects.html)
-</div>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaanSh06&hide_border=true&layout=compact&langs_count=10&text_color=FFFFFF&title_color=FFFFFF&bg_color=0,16222A,3a6073&border_radius=20" />
+</p>
 
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br />
+## 🛠️ Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,bash,blender,css,django,docker,electron,express,firebase,flask,git,heroku,html,js,linux,mongodb,nodejs,photoshop,postman,py,react,sass,swift,java,apple" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+<p align="center">
+<a href="https://github.com/ishaanSh06/AIchess">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishaanSh06&repo=AIchess&theme=tokyonight" />
+</a>
+<a href="https://github.com/ishaanSh06/Fighter">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishaanSh06&repo=Fighter&theme=tokyonight" />
+</a>
+<a href="https://github.com/ishaanSh06/ZipLink">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishaanSh06&repo=ZipLink&theme=tokyonight" />
+</a>
+</p>
+
+👉 Wanna see more?  
+https://ishaanSh06.github.io/328069/pages/projects.html
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+<a href="https://github.com/ishaanSh06"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+<a href="https://instagram.com/ishaanSh06"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+<a href="mailto:askishaan.sh@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+</p>
+
+---
+
+## 🔗 Quick Links
+
+
 <details>
   <summary>Quick Links 🔗</summary>
   <br>
@@ -88,7 +108,7 @@ askishaan.sh@gmail.com
   </details>
   <details>
   <summary>Google Developer Profile</summary>
-  <a href="https://g.dev/jeherillajanwar"><code>https://g.dev/jeherillajanwar/</code>
+  <a href="https://g.dev/ishaanSh06"><code>https://g.dev/ishaanSh06/</code>
   </details>
     
   <details>
@@ -97,40 +117,18 @@ askishaan.sh@gmail.com
 </details>
   
 </details>
-   <img width="45%" align="right" alt="Github" src="img.svg" />
 
-
-Have a Question or Feedback?? -- [`Email`](mailto:askishaan.sh@gmail.com)
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ishaan328069"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ishaan328069" /></a></p>
-<br/>
-<br/>
 
 ---
+<img width="45%" align="right" alt="Github" src="img.svg" />
 
-<div>
-  <img src="https://cultofthepartyparrot.com/flags/hd/unitedstatesofamericaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/coffeeparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-</div>
+
+## ☕ Support Me
+<p>
+<a href="https://www.buymeacoffee.com/ishaan328069">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />
+</a>
+</p>
+
+---
+<div> <img src="https://cultofthepartyparrot.com/flags/hd/unitedstatesofamericaparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/coffeeparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/> 
