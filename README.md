@@ -12,20 +12,6 @@ Hello, World!
 𝙄𝙨𝙝𝙖𝙖𝙣 𝙎𝙝𝙖𝙧𝙢𝙖
 ```
 
-> My [Portfolio](https://ishaanSh06.github.io/) | 🌐 
->
->![status](https://img.shields.io/website?down_color=red&down_message=down&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2FishaanSh06.github.io%2F)
-
-![](https://visitcount.itsvg.in/api?id=ishaanSh06&label=Profile%20Views&pretty=true)
-
-
----
-
-### Would love for you to check out
-- [Opensource Python Projects](https://github.com/ishaanSh06?tab=repositories&q=&language=python&sort=) | 🐍
-- [Web Projects](https://ishaanSh06.github.io/328069/pages/projects.html) | 🕸
-- [Opensource Swift Projects](https://github.com/ishaanSh06?tab=repositories&q=&language=swift&sort=) | 
-
 
 ---
 
@@ -114,7 +100,7 @@ askishaan.sh@gmail.com
    <img width="45%" align="right" alt="Github" src="img.svg" />
 
 
-Have a Question or Feedback?? -- [`Ask it Here`](https://ishaanSh06.github.io/328069/pages/contact.html) or [`Email`](mailto:askishaan.sh@gmail.com)
+Have a Question or Feedback?? -- [`Email`](mailto:askishaan.sh@gmail.com)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ishaan328069"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ishaan328069" /></a></p>
