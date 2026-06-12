@@ -50,11 +50,11 @@ Hello, World!
 
 ## 🔥 Featured Projects
 <p align="center">
-<a href="https://github.com/ishaanSh06/AIchess">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishaanSh06&repo=AIchess&theme=tokyonight" />
+<a href="https://github.com/ishaanSh06/BlockNinja">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishaanSh06&repo=BlockNinja&theme=tokyonight" />
 </a>
 <a href="https://github.com/ishaanSh06/Fighter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishaanSh06&repo=Fighter&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishaanSh06&repo=falconChess&theme=tokyonight" />
 </a>
 <a href="https://github.com/ishaanSh06/ZipLink">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishaanSh06&repo=ZipLink&theme=tokyonight" />
